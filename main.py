@@ -1,6 +1,6 @@
 from random import randint
 
-def kalk12():
+def kalk1233():
     tr = 0
     fl = 0
     x = int()
@@ -18,4 +18,4 @@ def kalk12():
             fl += 1
     print("количество верных ответов", tr)
 
-kalk12()
+kalk1233()
